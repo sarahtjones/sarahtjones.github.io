@@ -1,0 +1,80 @@
+0 Drew Hall
+1 Douglass Hall 
+2 Back of Burr
+3 Drew Hall / Reservoir 1 
+4 Burr Gym
+5 6th & Girard corner
+6 Cook Hall
+7 Cramton Shuttle Stop / School of Business
+8 Cramton Auditorium
+9 Ira Aldridge Theatre
+10 Left Upper Quad Corner
+11 Fine Arts Building
+12 Blackburn Center
+13 Center Yard
+14 Delta Tree Intersection
+15 Gate 2
+16 Locke Hall
+17 Math & Science Middle School 
+18 Omega Psi Phi Sundial
+19 Carnegie left corner
+20 Carnegie right corner
+21 Carnegie Hall
+22 Howard & Yard
+23 Gate 3
+24 Founders Library
+25 Undergraduate Library 
+26 Rankin Chapel
+27 4th & Howard corner
+28 School of Business
+29 Thirkield Hall front
+30 Thirkield Hall back
+31 Downing Hall
+32 Architecture Building
+33 Howard & Georgia
+34 Downing Back Door
+35 Downing Parking Lot
+36 Chemistry Building
+37 chem stairs
+38 Just Hall
+39 Biology Stairs
+40 College St & Chem Stairs
+41 College St & Biology Steps
+42 Tubman Quadrangle
+43 4th & College St.
+44 Bethune Annex
+45 College & 6th St. 
+46 4th & Bryant
+47 WHUT
+48 East School of Comm.
+49 West School of Comm.
+50 School of Communications
+51 WHUR
+52 Mental Health Center
+53 Health Center corner
+54 SOC west enterence
+55 SOC driveway
+56 6th & Bryant
+57 Nursing and Allied Health
+58 iLab
+59 Georgia & Bryant
+60 Howard Center / Starbucks
+61 Bookstore
+62 HSL courtyard
+63 HSL
+64 Lower Left HSL courtyard
+65 Lower Right HSL courtyard
+66 6th & W
+67 4th & W
+68 College of Medicine
+69 College of Dentistry
+70 Georgia & W
+71 Gate 1
+72 6th & Fairmont
+73 Locke Side Door 
+74 Locke Back Parking Lot
+75 School of Education
+76 Math / Econ Department 
+77 Reservoir 2
+78 Reservoir 3
+79 Reservoir 4
